@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/verfass/testapp#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "pug": "^2.0.0-beta11"
   }
 }
